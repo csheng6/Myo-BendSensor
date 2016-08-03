@@ -1,0 +1,11 @@
+﻿  Test_SDK.cpp
+c:\users\chris sheng\documents\robotic arm internship\test_sdk_vs2013\test_sdk_vs2013\test_sdk\myo\include\myo\cxx\impl\../detail/ThrowOnError.hpp(39): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  c:\users\chris sheng\documents\robotic arm internship\test_sdk_vs2013\test_sdk_vs2013\test_sdk\myo\include\myo\cxx\impl\../detail/ThrowOnError.hpp(39): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+c:\users\chris sheng\documents\robotic arm internship\test_sdk_vs2013\test_sdk_vs2013\test_sdk\myo\include\myo\cxx\impl\../detail/ThrowOnError.hpp(45): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  c:\users\chris sheng\documents\robotic arm internship\test_sdk_vs2013\test_sdk_vs2013\test_sdk\myo\include\myo\cxx\impl\../detail/ThrowOnError.hpp(45): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  Generating code
+  1 of 538 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Test_SDK.vcxproj -> C:\Users\Chris Sheng\Documents\Robotic Arm Internship\Test_SDK_VS2013\Test_SDK_VS2013\x64\Release\Test_SDK.exe
